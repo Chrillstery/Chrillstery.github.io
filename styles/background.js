@@ -1,8 +1,8 @@
 //随机背景图片数组,图片可以换成图床链接，注意最后一条后面不要有逗号
 var backimg =[
   "url(/image/girl.jpg)",
-  "url(/image/night.png)",
-  "url(/image/knight.png)",
+  "url(/image/night.jpg)",
+  "url(/image/knight.jpg)",
   "url(/image/background.jpg)",
   "url(/image/plain.jpg)",
   "url(/image/mountain.jpg)"
